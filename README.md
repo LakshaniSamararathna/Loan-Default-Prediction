@@ -30,7 +30,7 @@ Binary Classification — Default vs Fully Paid
 
 ## Project Structure
 - `Loan_Default_Prediction.ipynb` — Main notebook
-- `architecture_diagram.png` — System architecture diagram
+- `Architecture_Diagram.png` — System architecture diagram
 
 ## Status
 ✅ Milestone 2 Complete
