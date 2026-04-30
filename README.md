@@ -47,7 +47,7 @@ comparative evaluation.
 ## Repository Structure
 | File | Description |
 |---|---|
-| `Loan_Default_Prediction.ipynb` | Main Notebook - Full Pipeline |
+| `Loan_Default_Prediction.ipynb` | Main Notebook — Full Pipeline |
 | `Architecture_Diagram.png` | System Architecture Diagram |
 | `README.md` | Project Overview |
 
