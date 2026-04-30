@@ -1,4 +1,4 @@
-# Loan Default Prediction — CS5998 Capstone Project
+# Loan Default Prediction - CS5998 Capstone Project
 
 **Student Name:** L. M. Samararathna  
 **Student ID:** 258737D  
@@ -47,9 +47,9 @@ comparative evaluation.
 ## Repository Structure
 | File | Description |
 |---|---|
-| `Loan_Default_Prediction.ipynb` | Main notebook — full pipeline |
-| `Architecture_Diagram.png` | System architecture diagram |
-| `README.md` | Project overview |
+| `Loan_Default_Prediction.ipynb` | Main Notebook — Full Pipeline |
+| `Architecture_Diagram.png` | System Architecture Diagram |
+| `README.md` | Project Overview |
 
 ---
 
